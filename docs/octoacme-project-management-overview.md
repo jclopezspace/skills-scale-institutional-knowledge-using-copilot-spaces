@@ -17,8 +17,15 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- Scrum Master (SM): facilitates agile ceremonies, coaches the team, removes impediments.
+- UX Designer (UXD): defines user experience, produces wireframes and design specs.
+- Tech Lead (TL): provides technical leadership, architecture guidance, and mentors developers.
+- QA Automation Engineer (QAE): builds and maintains automated test suites, defines quality gates.
+- Business Analyst (BA): elicits and documents requirements, ensures clarity of acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+
+For detailed role descriptions and cross-role interactions, see [`octoacme-roles-and-personas.md`](./octoacme-roles-and-personas.md).
+For artifact ownership and cross-functional handoff checklists, see [`octoacme-role-artifact-ownership.md`](./octoacme-role-artifact-ownership.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
